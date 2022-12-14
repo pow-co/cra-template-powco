@@ -1,0 +1,25 @@
+{
+  "name": "cra-template-powco",
+  "version": "0.1.1",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "powco"
+  ],
+  "description": "The POWCO template for Create React App.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pow-co/cra-template-powco.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  },
+  "bugs": {
+    "url": "https://github.com/pow-co/cra-template-powco/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
